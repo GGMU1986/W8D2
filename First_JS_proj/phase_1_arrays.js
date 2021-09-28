@@ -97,8 +97,8 @@ Array.prototype.transpose = function () {
 arr1 = [[1, 2, 3], [1, 2, 3], [1, 2, 3]]
 arr2 = [[1, 2, 3], [4, 5, 7], [7, 8, 9]]
 
-console.log(arr1.transpose());
-console.log(arr2.transpose());
+// console.log(arr1.transpose());
+// console.log(arr2.transpose());
 
 
 
